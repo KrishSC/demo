@@ -1,3 +1,0 @@
-For rename and delete
-
-checking percent during commit
